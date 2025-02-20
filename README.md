@@ -2,6 +2,8 @@
 
 A simple and efficient task management application that allows users to add, edit, delete, and mark tasks as completed. Drag-and-drop functionality is also supported for better organization.
 
+![Task Example](https://github.com/Afrah-Mouhsine/Taskify/blob/main/Taskify-Project/public/example%20task.png)
+
 ## 🚀 Features:
 
 ### **✅ Adding & Editing Tasks**
